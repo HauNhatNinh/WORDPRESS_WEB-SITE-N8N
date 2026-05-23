@@ -91,7 +91,7 @@ volumes:
 ```
 <img width="1919" height="1079" alt="Screenshot 2026-05-22 171648" src="https://github.com/user-attachments/assets/98d4d415-c9be-4091-b318-ecac612972eb" />
 
-( nhớ thay chỗ `<MÃ_TOKEN_CLOUDFLARE_CỦA_BẠN>` bằng cái đoạn `Token` dài loằng ngoằng lấy từ trang Dashboard Cloudflare Tunnel của bạn vào nhé).
+( Lưu ý nhớ thay chỗ `<MÃ_TOKEN_CLOUDFLARE_CỦA_BẠN>` bằng cái đoạn `Token` dài loằng ngoằng lấy từ trang Dashboard Cloudflare Tunnel của vào ).
 
 ## Chạy kích hoạt hệ thống:
 
